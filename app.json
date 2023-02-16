@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "pong-xnft",
+    "slug": "pong-xnft",
+    "entryPoint": "./src/App"
+  }
+}
